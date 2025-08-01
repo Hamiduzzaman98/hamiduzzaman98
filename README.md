@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQELNmNvXeIuIA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738932645548?e=1756944000&v=beta&t=e5g-WzpKKKYKOSbHWcbJsSwOS_2S_TJKV_dxtG-667w](https://media.licdn.com/dms/image/v2/D4E16AQHLMDiOmoCRDQ/profile-displaybackgroundimage-shrink_350_1400/B4EZhl.qKAHEAc-/0/1754057582363?e=1756944000&v=beta&t=SNxfCREQUE1RXQ6fhYt_vd2F-Yq3xKcA-aFp8KROwCg)](https://media.licdn.com/dms/image/v2/D4E16AQHLMDiOmoCRDQ/profile-displaybackgroundimage-shrink_350_1400/B4EZhl.qKAHEAc-/0/1754057582363?e=1756944000&v=beta&t=SNxfCREQUE1RXQ6fhYt_vd2F-Yq3xKcA-aFp8KROwCg) ">
+<img src=" https://media.licdn.com/dms/image/v2/D4E16AQHLMDiOmoCRDQ/profile-displaybackgroundimage-shrink_350_1400/B4EZhl.qKAHEAc-/0/1754057582363?e=1756944000&v=beta&t=SNxfCREQUE1RXQ6fhYt_vd2F-Yq3xKcA-aFp8KROwCg ">
 
 <h1 align="center">Hello 👋, I'm Md Hamiduzzaman</h1>
 <h3 align="center">Passionate Web Developer | Elegant Code | Smart Web Solutions | Beautiful Design</h3>
