@@ -1,4 +1,4 @@
-<h1 align="center">Hellow 👋, I'm Md Hamiduzzaman</h1>
+<h1 align="center">Hello 👋, I'm Md Hamiduzzaman</h1>
 <h3 align="center">Passionate Web Developer | Elegant Code | Smart Web Solutions | Beautiful Design</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hamiduzzaman98&label=Profile%20views&color=0e75b6&style=flat" alt="hamiduzzaman98" /> </p>
